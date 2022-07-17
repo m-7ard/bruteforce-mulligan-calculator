@@ -1,3 +1,5 @@
+'test'
+
 from random import shuffle
 
 class Deck():
